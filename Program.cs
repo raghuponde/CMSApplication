@@ -14,10 +14,10 @@ namespace CMSApplication
     {
 
     
-
+    Console.WriteLine("Hellow ");
       studlist.Add(new Student { Id = 101, Name = "Kirankumarbhai"});
-      studlist.Add(new Student { Id = 102, Name = "Sureshraine" });
-       studlist.Add(new Student { Id = 103, Name = "mahesh" });
+     
+       studlist.Add(new Student { Id = 103, Name = "mahesh raine" });
       
       
       foreach (Student st in studlist)
