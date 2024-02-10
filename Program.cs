@@ -14,7 +14,7 @@ namespace CMSApplication
     {
 
     
-    Console.WriteLine("Hellowssss ");
+    Console.WriteLine("Hellowssssfjndfkjdn nd  ");
       studlist.Add(new Student { Id = 101, Name = "Kirankumarbhai"});
      
       
